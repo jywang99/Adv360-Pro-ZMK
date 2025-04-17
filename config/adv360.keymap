@@ -49,8 +49,8 @@
         fn {
             display-name = "Fn";
             bindings = <
-&kp F1  &kp F2    &kp F3               &kp F4         &kp F5       &kp F6              &tog 1                                      &mo 3   &kp F7    &kp F8             &kp F9         &kp F10          &kp F11          &kp F12
-&trans  &trans    &kp LC(RIGHT_ARROW)  &kp END        &trans       &trans              &none                                       &none   &trans    &kp PAGE_UP        &kp K_FORWARD  &kp K_BACK       &kp LC(PAGE_UP)  &trans
+&trans  &kp F1    &kp F2               &kp F3         &kp F4       &kp F5              &tog 1                                      &mo 3   &kp F6    &kp F7             &kp F8         &kp F9           &kp F10          &kp F11
+&trans  &trans    &kp LC(RIGHT_ARROW)  &kp END        &trans       &trans              &none                                       &none   &trans    &kp PAGE_UP        &kp K_FORWARD  &kp K_BACK       &kp LC(PAGE_UP)  &kp F12
 &trans  &kp HOME  &trans               &kp PAGE_DOWN  &kp LC(END)  &kp LC(HOME)        &none   &trans  &trans      &trans  &trans  &none   &kp LEFT  &kp DOWN_ARROW     &kp UP_ARROW   &kp RIGHT_ARROW  &trans           &trans
 &trans  &trans    &trans               &trans         &trans       &kp LC(LEFT_ARROW)                  &trans      &trans                  &trans    &kp LC(PAGE_DOWN)  &trans         &trans           &trans           &trans
 &trans  &trans    &trans               &trans         &trans                           &trans  &trans  &trans      &trans  &trans  &trans            &trans             &trans         &trans           &trans           &trans
